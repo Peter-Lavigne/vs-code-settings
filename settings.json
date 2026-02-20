@@ -42,7 +42,6 @@
     "editor.renderWhitespace": "boundary",
     "window.zoomLevel": 1.7,
     "workbench.startupEditor": "none",
-    "python.defaultInterpreterPath": "python3",
     "editor.inlineSuggest.enabled": true,
     "[python]": {
         "editor.formatOnSave": true,
