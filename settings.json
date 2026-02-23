@@ -18,7 +18,7 @@
         "editorGutter.modifiedBackground": "#202020",
         "editorOverviewRuler.addedForeground": "#202020",
         "editorOverviewRuler.modifiedForeground": "#202020",
-        "editorOverviewRuler.deletedForeground": "#202020"
+        "editorOverviewRuler.deletedForeground": "#202020",
     },
     "workbench.colorTheme": "Default Dark+",
     "editor.suggest.snippetsPreventQuickSuggestions": false,
@@ -55,7 +55,7 @@
     "outline.showVariables": false,
     "outline.showConstants": false,
     "python.analysis.autoImportCompletions": true,
-    "explorer.decorations.colors": false,
+    "explorer.decorations.colors": true,
     "editor.formatOnSave": true,
     "workbench.sideBar.location": "right",
     "python.testing.pytestEnabled": true,
@@ -69,8 +69,5 @@
     "python.envFile": "${workspaceFolder}/test.env",
     "diffEditor.maxComputationTime": 0,
     "testing.automaticallyOpenTestResults": "neverOpen",
-    "python.testing.pytestArgs": [
-        "src"
-    ],
     "workbench.externalBrowser": "firefox",
 }
