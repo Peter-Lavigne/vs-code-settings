@@ -70,4 +70,9 @@
     "diffEditor.maxComputationTime": 0,
     "testing.automaticallyOpenTestResults": "neverOpen",
     "workbench.externalBrowser": "firefox",
+    "debugpy.debugJustMyCode": false,
+    "workbench.editor.empty.hint": "hidden",
+    "chat.tools.terminal.autoApprove": {
+        "./test": true
+    }
 }
